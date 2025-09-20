@@ -130,6 +130,9 @@ dmypy.json
 
 # Data Science specific
 # Datasets (large files)
+data/raw/
+data/processed/
+src/data/processed_data/
 *.csv
 *.tsv
 *.json
