@@ -1,0 +1,8 @@
+Ranking de Aderência (sumsquare_error):
+
+          sumsquare_error           aic           bic  kl_div  ks_statistic  ks_pvalue
+expon            0.476252  13882.501573  13901.872556     inf      0.833408        0.0
+chi2             1.761333   4488.080672   4517.137146     inf      0.833408        0.0
+rayleigh         3.389295  59693.086368  59712.457350     inf      0.553700        0.0
+norm             3.967697  70947.638067  70967.009049     inf      0.462298        0.0
+exponpow         4.200864   1483.896175   1512.952649     inf      0.827617        0.0

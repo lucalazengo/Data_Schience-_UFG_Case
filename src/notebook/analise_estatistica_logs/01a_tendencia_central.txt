@@ -1,0 +1,22 @@
+Análise de Medidas de Tendência Central
+
+Coluna: pessoas
+  - Média: 2.5255
+  - Mediana: 2.0
+  - Moda: 2
+
+Coluna: mortos
+  - Média: 0.0799
+  - Mediana: 0.0
+  - Moda: 0
+
+Coluna: feridos_graves
+  - Média: 0.2631
+  - Mediana: 0.0
+  - Moda: 0
+
+Coluna: veiculos
+  - Média: 1.9597
+  - Mediana: 2.0
+  - Moda: 2
+

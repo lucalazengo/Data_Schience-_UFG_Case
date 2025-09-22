@@ -1,0 +1,22 @@
+Análise de Medidas de Dispersão
+
+Coluna: pessoas
+  - Amplitude: 94
+  - Variância: 4.0823
+  - Desvio Padrão: 2.0205
+
+Coluna: mortos
+  - Amplitude: 37
+  - Variância: 0.1139
+  - Desvio Padrão: 0.3375
+
+Coluna: feridos_graves
+  - Amplitude: 35
+  - Variância: 0.3700
+  - Desvio Padrão: 0.6083
+
+Coluna: veiculos
+  - Amplitude: 130
+  - Variância: 1.1793
+  - Desvio Padrão: 1.0859
+

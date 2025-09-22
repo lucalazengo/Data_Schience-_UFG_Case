@@ -1,0 +1,8 @@
+Análise de Técnicas de Amostragem
+
+- Média Populacional: 2.5255
+- Amostragem Simples: 2.5680
+- Amostragem Sistemática: 2.4711
+- Amostragem Estratificada (por UF): 2.5340
+- Amostragem por Conglomerados (15 Municípios): 2.7476
+- Tamanho de Amostra Calculado: 384

@@ -1,0 +1,7 @@
+Comparação de Médias por Tamanho de Amostra
+
+- Média Populacional: 2.5255
+- Média (n=10): 2.9000
+- Média (n=100): 2.6500
+- Média (n=1000): 2.4920
+- Média (n=10000): 2.5086
