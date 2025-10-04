@@ -250,6 +250,25 @@ ct = ColumnTransformer([
 → Queremos **maximizar recall** da classe fatal (evitar falsos negativos), aceitando mais falsos positivos.
 
 ---
+**Exemplos dos BIs**
 
-**Autor**: Willgnner Ferreira Santos  
-**Stack**: Streamlit • Pandas • Scikit-Learn • Plotly
+<img width="1785" height="603" alt="image" src="https://github.com/user-attachments/assets/509991d4-3fc7-4399-a9cb-7cdea5579d1c" />
+
+<img width="1834" height="678" alt="image" src="https://github.com/user-attachments/assets/0ae1dfcb-f195-46f3-904e-47754a902c52" />
+
+<img width="1809" height="459" alt="image" src="https://github.com/user-attachments/assets/ce965f2f-f902-4ab6-aa44-6c24d28f62d1" />
+
+<img width="1801" height="509" alt="image" src="https://github.com/user-attachments/assets/50f84e40-5d13-4f0d-84dc-b07bb42d3b5c" />
+
+<img width="1808" height="598" alt="image" src="https://github.com/user-attachments/assets/46395b66-9526-49e9-a4c2-1fda33b9faee" />
+
+**Exemplos da Modelagem**
+
+<img width="1814" height="845" alt="image" src="https://github.com/user-attachments/assets/ecabb4af-06ed-4bf4-8fc4-4dc8f729e2f2" />
+
+<img width="1762" height="667" alt="image" src="https://github.com/user-attachments/assets/0776eec2-6669-400d-b4df-b99e20562c7a" />
+
+<img width="1795" height="368" alt="image" src="https://github.com/user-attachments/assets/eaf43317-836c-4df2-9bc8-4ec06330e205" />
+
+
+
