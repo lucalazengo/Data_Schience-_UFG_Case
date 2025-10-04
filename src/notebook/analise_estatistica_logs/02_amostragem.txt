@@ -4,5 +4,5 @@ Análise de Técnicas de Amostragem
 - Amostragem Simples: 2.5680
 - Amostragem Sistemática: 2.4711
 - Amostragem Estratificada (por UF): 2.5340
-- Amostragem por Conglomerados (15 Municípios): 2.5512
+- Amostragem por Conglomerados (15 Municípios): 2.3772
 - Tamanho de Amostra Calculado: 384
